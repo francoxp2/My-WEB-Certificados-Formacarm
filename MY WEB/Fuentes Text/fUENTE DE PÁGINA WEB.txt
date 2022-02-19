@@ -1,0 +1,11 @@
+ENLACE PARA CONECTAR WEB
+
+<enlace rel="preconectar" href="https://fonts.googleapis.com">
+<enlace rel="preconectar" href="https://fonts.gstatic.com" crossorigin>
+<enlace href="https: //fonts.googleapis.com/css2? family= Josefin+Sans:ital,wght@1,500 & display=swap" rel="stylesheet">
+
+
+
+Reglas CSS para especificar familias
+
+familia tipográfica: 'Josefin Sans', sans-serif;
